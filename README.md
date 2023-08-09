@@ -18,7 +18,7 @@ Checks for Email Access
 ```
 
 # Download for EXE version.
-https://github.com/ShadowOxygen/OxygenX/releases/tag/v0.8
+https://github.com/bruhb001/OxygenX/releases/tag/v0.8
 The releases section is on the right side of the github......
 
 # Donate
